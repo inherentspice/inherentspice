@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Inherentspice's github stats](https://github-readme-stats.vercel.app/api?username=inherentspice&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/inherentspice/github-readme-stats)
+[![Inherentspice's github stats](https://github-readme-stats.vercel.app/api?username=inherentspice&count_private=true&show_icons=true&theme=synthwave&hide_rank=false)](https://github.com/inherentspice/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inherentspice)](https://github.com/inherentspice/github-readme-stats)
+
