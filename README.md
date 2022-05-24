@@ -1,7 +1,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" width="500em" align="center" src="https://github-readme-stats.vercel.app/api?username=HesitantRealism14&count_private=true&show_icons=true&theme=radical&hide=issues" />
+  <img height="180em" width="500em" align="center" src="https://github-readme-stats.vercel.app/api?username=inherentspice&count_private=true&show_icons=true&theme=radical&hide=issues" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height="172em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inherentspice&layout=compact&langs_count=8&theme=algolia" />
