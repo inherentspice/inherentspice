@@ -3,7 +3,7 @@
   <img height="180em" width="500em" align="center" src="https://github-readme-stats.vercel.app/api?username=inherentspice&count_private=true&show_icons=true&theme=radical&hide=issues" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height="172em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inherentspice&layout=compact&langs_count=8&theme=radical" />
+  <img height="172em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inherentspice&layout=compact&langs_count=8&theme=radical&count_private=true&hide=jupyter" />
 </a>
 
 ### 🛠 &nbsp;Tech Stack
