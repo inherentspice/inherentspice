@@ -1,4 +1,11 @@
-### ⚙️ &nbsp;GitHub Analytics
+# 
+- I’m currently improving my React skills.
+- 
+## Connect With Me:
+<a href="https://www.linkedin.com/in/stephen-lehane-smith/" target="_blank">
+  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+</a>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="180em" width="500em" align="center" src="https://github-readme-stats.vercel.app/api?username=inherentspice&count_private=true&show_icons=true&theme=radical&hide=issues" />
 </a>
