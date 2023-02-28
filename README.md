@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stephen Lehane Smith</h1>
-<h3 align="center">A passionate Full Stack Software Engineer from Australia (but currently based in London)</h3>
+<h3 align="center">A passionate Full Stack Software Engineer from Australia (but based in London)</h3>
 
 - 🔭 I’m currently working on a performer-focused social media platform **Set-Listed**
 
